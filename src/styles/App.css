@@ -10,3 +10,21 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+form{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    width: fit-content;
+    margin-top: 30vh;
+    display: flex;
+    flex-direction: column;
+    /* gap: 2rem; */
+    padding: 5rem 10rem;
+    justify-content: center;
+    align-items: center;
+}
+
+form p{
+    color: red;
+}
